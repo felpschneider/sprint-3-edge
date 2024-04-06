@@ -93,7 +93,7 @@ void loop() {
 
 
 ```
-Basta copiar e colar o link a cima!
+Basta copiar e colar o código a cima!
 
 
 
